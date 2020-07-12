@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Supervised Learning
-subtitle: LightGBM, Random Forest, XGBoost
+subtitle: Logistic Regression, LightGBM, Random Forest, XGBoost
 ---
 
 <p style="text-align: justify;">
@@ -23,3 +23,6 @@ Random forest is a classical tree-based ensemble learning method that constructs
 <p style="text-align: justify;">
   <b>4. LightGBM Classifier</b>
 </p>
+
+
+
